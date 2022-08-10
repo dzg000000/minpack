@@ -1,0 +1,25 @@
+{
+  "name": "minpack",
+  "version": "1.0.0",
+  "description": "learn demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzg000000/minpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzg000000/minpack/issues"
+  },
+  "homepage": "https://github.com/dzg000000/minpack#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/parser": "^7.18.11",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/traverse": "^7.18.11"
+  }
+}
